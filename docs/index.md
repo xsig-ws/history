@@ -1,5 +1,5 @@
 ---
-title JSPP / SACSIS / ACSI HP archive
+title: JSPP / SACSIS / ACSI HP archive
 ---
 
 本サイトには、JSPP,SACSIS,ACSI の過去のホームページを
